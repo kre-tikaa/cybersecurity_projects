@@ -1,4 +1,4 @@
-# Cybersecurity Documentation Projects by Kritika Chaudhary
+# Cybersecurity Documentation Projects
 
 This repository contains a series of hands-on security documentation projects and technical exercises completed as part of the **Google Cybersecurity Certificate** program. Each file demonstrates applied skills in areas like risk assessment, incident response, SQL filtering, Linux security, and automation using Python.
 
